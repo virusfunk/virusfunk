@@ -6,10 +6,10 @@
 
 ## Interest & Work 
 * Computer Vision  
-  * Point cloud segmentation 
+  * Point cloud classification/segmentation 
 * LHC Reco, ID, Trigger  
-  * online \mu segment reconstruction
-  * \tau identification via NN
+  * NN based online muon segment reconstruction via FPGA  
+  * NN based tau identification  
 * Very High Energy(VHE) Gamma-ray Astrophysics  
   * HAWC High-Mass Microquasars(HMMQ) time-dependent analysis  
   * 3HWC J1843-035 likelihood analysis
