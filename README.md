@@ -9,9 +9,11 @@
   * Point cloud classification/segmentation 
 * LHC Reco, ID, Trigger  
   * NN based online muon segment reconstruction via FPGA  
+  * NN based offline tau identification
 * Very High Energy(VHE) Gamma-ray Astrophysics  
   * HAWC High-Mass Microquasars(HMMQ) time-dependent analysis  
-  * 3HWC J1843-035 likelihood analysis
+  * 3HWC J1843-034 likelihood analysis
+  * SuperNova Remnants(SNRs) modeling
 
 
 ## ETC
