@@ -9,13 +9,9 @@
   * Point cloud classification/segmentation 
 * LHC Reco, ID, Trigger  
   * NN based online muon segment reconstruction via FPGA  
-  * NN based tau identification  
 * Very High Energy(VHE) Gamma-ray Astrophysics  
   * HAWC High-Mass Microquasars(HMMQ) time-dependent analysis  
   * 3HWC J1843-035 likelihood analysis
-
-## Publication
-* [PoS ICHEP2020 (2021) 712](https://doi.org/10.22323/1.390.0712)
 
 
 ## ETC
